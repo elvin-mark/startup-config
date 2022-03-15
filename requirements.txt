@@ -26,3 +26,4 @@ tqdm
 tinydb
 fastapi
 "jax[cpu]"
+spacy
